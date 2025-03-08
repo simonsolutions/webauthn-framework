@@ -208,7 +208,7 @@ final class AssertionTest extends AbstractTestCase
                 $source,
                 $publicKeyCredential->response,
                 $publicKeyCredentialRequestOptions,
-                'tuleap-web.tuleap-aio-dev.docker',
+                'webauthn.spomky-labs.com',
                 '101'
             );
     }
